@@ -8,5 +8,6 @@ public class main
     public static void menu()
     {
         System.out.println("Welcome to Pokemon Battler");
+        System.out.println("Enter your username");
     }
 }

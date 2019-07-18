@@ -20,13 +20,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+            <state relative-caret-position="170">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
               <folding>
                 <element signature="e#67#68#0" expanded="true" />
                 <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,13 +150,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        <state relative-caret-position="170">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
           <folding>
             <element signature="e#67#68#0" expanded="true" />
             <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
           </folding>
         </state>
       </provider>
