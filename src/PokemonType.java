@@ -36,6 +36,4 @@ public enum PokemonType
 
     FAIRY();
 
-
-
 }
